@@ -1,0 +1,18 @@
+#game {
+    width: 400px;
+    height: 400px;
+
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    background-color: rebeccapurple;
+}
+
+.orange {
+    background-color: orange;
+
+}
+
